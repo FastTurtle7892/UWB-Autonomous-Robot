@@ -40,7 +40,7 @@
 * **Motor Driver:** 4CH Motor Driver Shield (TB6612FNG 기반)
 * **Input Device:** 2축 조이스틱(Joystick) 모듈
 * **Power:** 7-12V 리튬 배터리
-> ![alt text](image.png)
+> ![alt text](/imgs/image.png)
 
 ### 소프트웨어 (Software)
 * **IDE:** Arduino IDE, Visual Studio Code
